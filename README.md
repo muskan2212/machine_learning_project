@@ -1,2 +1,12 @@
 # machine_learning_project
 this is one of my ineuron project.
+  
+
+Creating conda enviroment
+''''
+conda create -p penv python==3.7 -y
+
+''''
+conda activate penv
+''''
+pip install -r requirements.txt
